@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/uix.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/androidprefs.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/anttasks.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/archquery.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/ddmlib.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/ddms.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/ddmuilib.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/draw9patch.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/emma.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/emma_ant.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/emma_device.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/groovy-all-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/hierarchyviewer.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/jfreechart-1.0.9-swt.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/layoutopt.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/org.eclipse.core.commands_3.4.0.I20080509-2000.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/org.eclipse.equinox.common_3.4.0.v20080421-2006.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/org.eclipse.jface_3.4.2.M20090107-0800.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/org-netbeans-api-visual.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/org-openide-util.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/osgi.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/sdklib.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/sdkmanager.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/sdkstats.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/sdkuilib.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/android-sdk-windows/tools/lib/traceview.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
